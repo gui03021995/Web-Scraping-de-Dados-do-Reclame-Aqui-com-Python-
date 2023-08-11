@@ -5,12 +5,12 @@ Recentemente, desenvolvi um projeto interessante de Web Scraping utilizando Pyth
 Sobre o Projeto:
 O objetivo deste projeto é automatizar a coleta de informações sobre a reputação de empresas no Reclame Aqui. O código desenvolvido realiza a raspagem de dados de uma empresa específica informada pelo usuário, como a nota dos últimos 6 meses e a nota geral, além de outras informações relevantes.
 
-###Tecnologias Utilizadas:
+### Tecnologias Utilizadas:
  - Python
  - Biblioteca Selenium (para automação de navegação)
  - Biblioteca PyAutoGUI (para simulação de interações com o teclado/mouse)
 
-###Como Funciona:
+### Como Funciona:
 
  1. O usuário insere o nome da empresa desejada.
  2. O código verifica se a empresa existe no Reclame Aqui.
@@ -18,7 +18,7 @@ O objetivo deste projeto é automatizar a coleta de informações sobre a reputa
  4. Caso contrário, inicia a raspagem de dados.
  5. Os dados coletados são salvos em arquivos de texto separados.
 
-###Como Utilizar:
+### Como Utilizar:
  1. Instale as bibliotecas necessárias (Selenium e PyAutoGUI).
  2. Baixe o código disponível no repositório.
  3. Execute o código e siga as instruções para inserir o nome da empresa.
